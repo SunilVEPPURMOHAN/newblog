@@ -1,0 +1,10 @@
+# Site settings
+title: theTruth
+author:
+  name: Mediocre Economist
+  email: sunilvm2017@email.iimcal.ac.in
+description: "theStart"
+
+# Build settings
+remote_theme: jekyll/minima
+

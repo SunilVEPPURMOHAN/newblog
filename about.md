@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-#Ramblings in the middle ages
+# Ramblings in the middle ages
